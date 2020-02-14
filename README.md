@@ -1,1 +1,1 @@
-https://github.com/azat-a/rsschool-cv/cv
+https://azat-a.github.io/rsschool-cv/cv
