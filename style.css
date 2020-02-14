@@ -1,0 +1,20 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  background-color: white;
+}
+
+section {
+  width: 1024px;
+  margin: 20px auto;
+}
+
+a {
+  text-decoration: none;
+  color: #065a06;
+}
+
+a:visited,
+a:active,
+a:hover {
+  color: #34074b;
+}
